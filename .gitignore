@@ -2,3 +2,14 @@
 logs/
 __pycache__/
 .venv/
+
+# Databases & vector stores
+chroma_db/
+lancedb_data/
+
+# Uploaded documents
+docs/
+
+# Notebook run logs
+agent-ai/day1/notebooks/logs/
+*.json
